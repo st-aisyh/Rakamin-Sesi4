@@ -242,7 +242,7 @@ console.log(DAYSV2)
 
 
 // SORT
-const NUMBER = [1,2,3,7,34,50];
+const NUMBER = [1,2,3,7,34,500];
 console.log(NUMBER.sort((a,b) => a-b))
 
 
